@@ -121,7 +121,7 @@ Essa estrutura permite análises detalhadas de vendas, produtos, clientes e cate
 
 Todas as queries utilizadas para criação do banco de dados estão disponíveis no arquivo abaixo:
 
-
+[ecommerce_BIg.sql](https://github.com/user-attachments/files/25855492/ecommerce_BIg.sql)
 
 O arquivo contém:
 - Criação das tabelas
@@ -149,18 +149,6 @@ O arquivo contém:
 - Otimizar consultas SQL
 - Evoluir o projeto com novos cenários de negócio
 
----
-
-## 📁 Estrutura do Projeto
-sql-powerbi-analise-vendas
-│
-├── imagens
-│ └── dashboard.png
-│
-├── queries
-│ └── ecommerce_big_dataset.sql
-│
-└── README.md
 
 ---
 
@@ -194,12 +182,11 @@ CREATE TABLE item_pedido (
   FOREIGN KEY (id_pedido) REFERENCES pedidos(id_pedido),
   FOREIGN KEY (id_produto) REFERENCES produtos(id_produto)
 );
-👨‍💻 Autor
+👨‍💻 Autor Luis thiago da silva xavier 
 
-Seu nome
 
-GitHub:
+Gmail: luiz.tiagosilva700@gmail.com 
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/luis-thiago-da-silva-xavier-a684303aa 
 
 ⭐ Se você achou este projeto interessante, considere dar uma estrela no repositório.
