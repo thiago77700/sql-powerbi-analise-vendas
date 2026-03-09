@@ -35,7 +35,7 @@ O projeto segue as seguintes etapas:
 
 ## 🖼️ Dashboard de Vendas (Power BI)
 
-![Dashboard de Vendas](imagens/dashboard.png)
+<img width="872" height="499" alt="Image" src="https://github.com/user-attachments/assets/ed1546c3-320a-4b0a-9bac-7bef9f86b54c" />
 
 O dashboard foi desenvolvido com foco em **clareza visual**, **padronização de cores** e **leitura rápida**, permitindo que usuários de negócio entendam rapidamente o desempenho das vendas.
 
@@ -121,7 +121,7 @@ Essa estrutura permite análises detalhadas de vendas, produtos, clientes e cate
 
 Todas as queries utilizadas para criação do banco de dados estão disponíveis no arquivo abaixo:
 
-[ecommerce_big_dataset.sql](queries/ecommerce_big_dataset.sql)
+
 
 O arquivo contém:
 - Criação das tabelas
