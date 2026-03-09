@@ -93,7 +93,7 @@ CREATE TABLE item_pedido (
 
 📌 Todas as queries completas estão disponíveis no arquivo:
 
-👉 ecommerce_big_dataset.sql
+👉 [ecommerce_big_dataset.sql](https://github.com/user-attachments/files/25855251/ecommerce_big_dataset.sql)
 
 🎯 Perguntas de Negócio Respondidas
 
